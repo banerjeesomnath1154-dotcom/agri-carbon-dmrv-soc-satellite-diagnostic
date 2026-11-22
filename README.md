@@ -82,4 +82,9 @@ agri-carbon-dmrv-soc-satellite-diagnostic/
    Open `excel/soc_carbon_credit_reconciliation.xlsx` to review the revenue waterfall and variance checks.
 
 ---
-*Created as part of an Agri-Carbon & Business Intelligence Portfolio.*
+## 👤 Author & Contact
+* **Author:** Somnath Banerjee
+* **Role:** Aspiring Agri-Business Analyst & Geospatial BI Specialist
+* **LinkedIn:** linkedin.com/in/somnath-banerjee-621720239
+* **GitHub:** https://github.com/banerjeesomnath1154-dotcom
+* **Gmail:** banerjeesomnath1154@gmail.com

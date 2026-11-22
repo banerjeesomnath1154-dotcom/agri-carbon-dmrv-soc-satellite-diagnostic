@@ -85,6 +85,15 @@ agri-carbon-dmrv-soc-satellite-diagnostic/
    ```
 2. **Jupyter Notebook**:
    ```bash
+
+   ---
+## 👤 Author & Contact
+* **Author:** Somnath Banerjee
+* **Role:** Aspiring Agri-Business Analyst & Geospatial BI Specialist
+* **LinkedIn:** linkedin.com/in/somnath-banerjee-621720239
+* **GitHub:** https://github.com/banerjeesomnath1154-dotcom
+* **Gmail:** banerjeesomnath1154@gmail.com
+
    jupyter notebook notebooks/01_soc_dmrv_spatial_analysis.ipynb
    ```
 3. **SQLite Queries**:

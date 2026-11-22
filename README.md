@@ -86,6 +86,13 @@ agri-carbon-dmrv-soc-satellite-diagnostic/
 2. **Jupyter Notebook**:
    ```bash
 
+   jupyter notebook notebooks/01_soc_dmrv_spatial_analysis.ipynb
+   ```
+3. **SQLite Queries**:
+   ```bash
+   sqlite3 data/agri_carbon_dmrv.db < sql/03_scope3_decarbonization_queries.sql
+   ```
+
    ---
 ## 👤 Author & Contact
 * **Author:** Somnath Banerjee
@@ -93,10 +100,3 @@ agri-carbon-dmrv-soc-satellite-diagnostic/
 * **LinkedIn:** linkedin.com/in/somnath-banerjee-621720239
 * **GitHub:** https://github.com/banerjeesomnath1154-dotcom
 * **Gmail:** banerjeesomnath1154@gmail.com
-
-   jupyter notebook notebooks/01_soc_dmrv_spatial_analysis.ipynb
-   ```
-3. **SQLite Queries**:
-   ```bash
-   sqlite3 data/agri_carbon_dmrv.db < sql/03_scope3_decarbonization_queries.sql
-   ```
